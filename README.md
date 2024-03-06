@@ -1,6 +1,6 @@
 # Casos de teste utilizando JUnit
 ###  O programa foi elaborado com base no arquivo enviado pelo professor em aula
-###  - Foi criado 5 casos de teste, que são:
+###  - Foi criado 7 casos de teste, dentre eles:
 - validar o produto - expectativa: produto valido
 - validar o produto - expectativa: produto invalido
 - cadastrar o produto - expectativa: produto cadastrado com sucesso
